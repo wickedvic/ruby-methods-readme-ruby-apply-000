@@ -13,4 +13,4 @@ puts phrase
 puts phrase
 end
 
-puts hello_ten_times
+hello_ten_times
